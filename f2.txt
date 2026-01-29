@@ -1,2 +1,5 @@
 Git tracks file changes
-Git tracks file changes1111
+<<<<<<< HEAD
+Git tracks file changes
+=======
+>>>>>>> new1
